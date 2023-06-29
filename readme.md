@@ -25,4 +25,4 @@ This is a simple web application that allows you to manage a list of students. Y
 
 ## Screenshots
 
-![Screenshot of the Website](screenshots/screenshot.png)
+![Screenshot of the Website](screenshots/image.png)
